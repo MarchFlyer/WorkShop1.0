@@ -49,6 +49,7 @@ li {
 
 nav {
     float: right;
+    padding-bottom: 10px;
 }
 
 nav ul {
