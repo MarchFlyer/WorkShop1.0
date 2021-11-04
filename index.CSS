@@ -74,6 +74,7 @@ nav a:hover {
     .navbar-header {
                  text-align: center;
                     margin: 0 auto;
+                    position: absolute;
     }
                    
     
