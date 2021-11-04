@@ -70,6 +70,12 @@ nav a:hover {
 
 @media screen and (max-width: 900px) {
     
+    .navbar-header {
+                 text-align: center;
+                    margin: 0 auto;
+                    padding: ;
+                   
+    
     p {
         padding-top: 110px;
     }
