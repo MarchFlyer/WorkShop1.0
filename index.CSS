@@ -13,13 +13,13 @@ body {
   text-align: center;
   margin: 0 auto;
   padding: 10px;
+  max-height: 10%;
   
 }
 
 header {
       background-color: #F7E4F7;
       position: sticky; top: 0;
-      max-height: 10%;
       
 }
 
