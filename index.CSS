@@ -69,7 +69,7 @@ nav a:hover {
 @media screen and (max-width: 900px) {
 
           body {
-              <p1> I love you <p1>
+              <strong> I love you </strong>
           background-color: blue; }
           nav ul {
             padding-right: 0px;
