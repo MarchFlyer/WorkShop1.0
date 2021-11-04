@@ -42,7 +42,7 @@ li {
 .logo {
     float: left;
     width: 150px;
-    height: 50px;
+    height: 100px;
     padding: 0px 0;
 
 
@@ -73,7 +73,6 @@ nav a:hover {
     .navbar-header {
                  text-align: center;
                     margin: 0 auto;
-                    padding: 10px;
     }
                    
     
