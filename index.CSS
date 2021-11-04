@@ -70,7 +70,7 @@ nav a:hover {
 @media screen and (max-width: 900px) {
 
           body {
-          background-color: ; }
+          background-color: white; }
           nav ul {
             padding-right: 0px;
            display: none;
