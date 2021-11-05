@@ -71,6 +71,12 @@ nav {
 
 nav ul {
       margin: 0;
+      list-style: none;
+}
+
+nav ul li {
+      float: left;
+      position: relative;
       position: absolute;
       top: 50%;
       -ms- transform: translateY(-50%);
@@ -78,12 +84,6 @@ nav ul {
       left: 40%;
       -ms- transform: translateX(-40%);
       transorm: translateX(-40%);
-      list-style: none;
-}
-
-nav ul li {
-      float: left;
-      position: relative;
       
 }
 
