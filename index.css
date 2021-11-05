@@ -20,6 +20,11 @@ body {
     display: block;
 }
 
+menu {
+    padding: 0px;
+    margin: 0px;
+}
+
 .logo1 {
     display: none;
 }
