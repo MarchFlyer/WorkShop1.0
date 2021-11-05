@@ -59,10 +59,7 @@ nav ul li ul {
       background-color: white;
 }
 nav {
-      position: absolute;
-      left: 40%;
-      -ms- transform: translateX(-40%);
-      transorm: translateX(-40%);
+      
 }
 
 nav ul li ul a {
@@ -73,6 +70,10 @@ nav ul li ul a {
 nav ul {
       margin: 0;
       list-style: none;
+      position: absolute;
+      left: 40%;
+      -ms- transform: translateX(-40%);
+      transorm: translateX(-40%);
 }
 
 nav ul li {
