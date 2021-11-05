@@ -89,5 +89,9 @@ nav a:hover {
           background-color: white;
 
     }
+    
+    nav ul {
+        display: none;
+    }
           
        }
