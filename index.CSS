@@ -100,9 +100,7 @@ nav a:hover {
         display: block;
         margin: 0;
         position: relative;
-        top: 30%;
-        -ms-transform: translateY(-30%);
-        transform: translateY(-30%);
+        
     }
     
     
