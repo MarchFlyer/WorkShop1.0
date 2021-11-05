@@ -65,12 +65,13 @@ nav ul li ul a {
 }
 
 nav ul {
+      float: right;
       margin: 0;
       list-style: none;
 }
 
 nav ul li {
-      float: right;
+      float: left;
       position: relative;
 }
 
