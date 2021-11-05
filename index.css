@@ -47,8 +47,9 @@ nav ul li a {
 nav ul li ul {
       position: absolute;
       display: block;
-      padding: 0;
+      padding: 10px 0px;
       margin:  0;
+      
     
 }
 
