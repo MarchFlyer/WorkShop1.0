@@ -64,17 +64,6 @@ nav ul li ul a {
     margin-top: 25px;
 }
 
-nav {
-      position: absolute;
-      top: 50%;
-      -ms- transform: translateY(-50%);
-      transform: translateY(-50%);
-      left: 40%;
-      -ms- transform: translateX(-40%);
-      transorm: translateX(-40%);
-  
-}
-
 nav ul {
       margin: 0;
       list-style: none;
