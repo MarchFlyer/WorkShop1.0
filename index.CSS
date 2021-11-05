@@ -61,13 +61,12 @@ nav {
 
 nav ul {
       margin: 0;
-      
       list-style: none;
 }
 
 nav li {
       display: inline-block;
-      margin-left: 80px;
+      margin-left: 0px;
       
 }
 
