@@ -21,6 +21,10 @@ body {
     display: block;
 }
 
+.logo1 {
+    display: none;
+}
+
 header {
       background-color: #F7E4F7;
       position: sticky; top: 0;
