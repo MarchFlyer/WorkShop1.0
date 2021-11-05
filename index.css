@@ -68,12 +68,12 @@ nav ul li ul a {
 nav ul {
       margin: 0;
       list-style: none;
+      padding-left: 50px;
 }
 
 nav ul li {
       float: left;
       position: relative;
-      padding-left: 50px;
 }
 
 nav a:hover {
