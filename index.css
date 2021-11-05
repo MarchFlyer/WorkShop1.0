@@ -72,7 +72,7 @@ nav ul {
       list-style: none;
 }
 
-nav li {
+nav ul li {
       display: inline-block;
       margin-left: 50px;
       
