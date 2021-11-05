@@ -96,9 +96,9 @@ nav a:hover {
     }
     
     .logo1 {
-        left: 100%;
-        -ms- transform: translateX(-100%);
-        transorm: translateX(-100%);
+        left: 50%;
+        -ms- transform: translateX(-50%);
+        transorm: translateX(-50%);
         display: block;
         margin: 0;
         position: absolute;
