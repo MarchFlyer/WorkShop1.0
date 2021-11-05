@@ -58,6 +58,11 @@ nav ul li ul {
       margin 0;
       background-color: white;
 }
+    <nav>
+      left: 40%;
+      -ms- transform: translateX(-40%);
+      transorm: translateX(-40%);
+    </nav>
 
 nav ul li ul a {
     display: block;
