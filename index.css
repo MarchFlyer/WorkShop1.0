@@ -52,10 +52,9 @@ nav ul li ul {
 }
 
 nav ul li ul li {
-      position: absolute;
       display: block;
       padding-top 20px;
-      margin:  0;
+      
       
     
 }
