@@ -48,6 +48,14 @@ nav ul li a {
   font-size: 25px;
   padding-left: 50px;
   display: block;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms- transform: translateY(-50%);
+  transform: translateY(-50%);
+  left: 40%;
+  -ms- transform: translateX(-40%);
+  transorm: translateX(-40%);
 }
 
 nav ul li ul {
@@ -65,14 +73,7 @@ nav ul li ul a {
 
 nav {
     
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  -ms- transform: translateY(-50%);
-  transform: translateY(-50%);
-  left: 40%;
-  -ms- transform: translateX(-40%);
-  transorm: translateX(-40%);
+  
 }
 
 nav ul {
