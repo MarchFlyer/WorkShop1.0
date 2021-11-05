@@ -40,7 +40,7 @@ nav ul li a {
   text-decoration: none;
   text-transform: uppercase;
   color: #8C234D;
-  font-size: 50px;
+  font-size: 25px;
 }
 
 nav ul li {
@@ -74,7 +74,7 @@ nav ul {
 
 nav ul li {
       display: inline-block;
-      margin-left: 0px;
+      margin-left: 50px;
       
 }
 
