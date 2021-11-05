@@ -13,9 +13,14 @@ body {
   text-align: center;
   margin: 0 auto;
   padding: 0px;
-
-
 }
+
+.logo {
+    float: left;
+    width: 150px;
+    height: 100px;
+    padding: 0px 0;
+    display: block;
 
 header {
       background-color: #F7E4F7;
