@@ -21,6 +21,7 @@ body {
     height: 100px;
     padding: 0px 0;
     display: block;
+}
 
 header {
       background-color: #F7E4F7;
@@ -42,11 +43,6 @@ nav a {
 }
 
 li {
-}
-
-
-
-
 }
 
 nav {
