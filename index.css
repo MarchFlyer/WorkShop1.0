@@ -44,7 +44,8 @@ nav a {
   font-size: 25px;
 }
 
-li {
+nav ul li ul {
+ display: none;   
 }
 
 nav {
@@ -52,7 +53,7 @@ nav {
     margin: 0;
   position: absolute;
   top: 50%;
-  -ms-transform: translateY(-50%);
+  -ms- transform: translateY(-50%);
   transform: translateY(-50%);
   left: 40%;
   -ms- transform: translateX(-40%);
