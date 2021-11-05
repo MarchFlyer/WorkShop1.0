@@ -57,7 +57,7 @@ nav ul li ul a {
       display: block;
       padding: 0;
       margin-top: 25px;
-      float: left;
+      text-align: center;
 }
 
 nav {
