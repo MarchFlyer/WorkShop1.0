@@ -48,15 +48,14 @@ li {
 }
 
 nav ul li a {
-    
     margin: 0;
   position: relative;
   top: 50%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-  left: 40%;
-  -ms- transform: translateX(-40%);
-  transorm: translateX(-40%);
+  left: 50%;
+  -ms- transform: translateX(-50%);
+  transorm: translateX(-50%);
 }
 
 nav ul {
