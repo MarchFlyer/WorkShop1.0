@@ -68,7 +68,7 @@ nav ul li ul a {
 nav ul {
       margin: 0;
       list-style: none;
-      padding-left: 200px;
+      text-align: center;
 }
 
 nav ul li {
