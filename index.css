@@ -46,7 +46,7 @@ nav ul li a {
   text-transform: uppercase;
   color: #8C234D;
   font-size: 25px;
-  padding-left: 50px;
+  padding: 20 25;
   display: block;
   margin: 0;
 }
