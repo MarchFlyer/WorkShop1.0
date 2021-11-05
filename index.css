@@ -48,6 +48,12 @@ nav ul li {
     
 }
 
+nav ul li ul {
+      position: absolute;
+      display: block;
+    
+}
+
 nav {
     
   margin: 0;
