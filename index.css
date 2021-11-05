@@ -53,6 +53,10 @@ nav ul li ul {
       background-color: white;
 }
 
+nav ul li ul a {
+    margin-top: 25px;
+}
+
 nav {
     
   margin: 0;
@@ -73,7 +77,6 @@ nav ul {
 
 nav ul li {
       display: inline-block;
- 
       position: relative;
       
 }
