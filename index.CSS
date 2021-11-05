@@ -54,9 +54,9 @@ nav {
   top: 50%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-  left: 30%;
-  -ms- transform: translateX(-30%);
-  transorm: translateX(-30%);
+  left: 40%;
+  -ms- transform: translateX(-40%);
+  transorm: translateX(-40%);
 }
 
 nav ul {
@@ -67,7 +67,7 @@ nav ul {
 
 nav li {
       display: inline-block;
-      margin-left: 50px;
+      margin-left: 60px;
       
 }
 
