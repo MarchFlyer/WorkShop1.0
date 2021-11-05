@@ -65,6 +65,10 @@ nav ul li ul a {
     margin-top: ;
 }
 
+nav {
+    padding-left: 50px;
+}
+
 nav ul {
       margin: 0;
       list-style: none;
