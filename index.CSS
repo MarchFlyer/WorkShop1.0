@@ -90,7 +90,7 @@ nav a:hover {
 
     }
     
-    nav ul li {
+    nav ul li a {
         display: none;
     }
           
