@@ -53,9 +53,9 @@ nav ul li a {
   top: 50%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-  left: 50%;
-  -ms- transform: translateX(-50%);
-  transorm: translateX(-50%);
+  left: 80%;
+  -ms- transform: translateX(-80%);
+  transorm: translateX(-80%);
 }
 
 nav ul {
@@ -70,7 +70,7 @@ nav ul li ul {
 
 nav li {
       display: inline-block;
-      margin-left: 50px;
+      
       
 }
 
