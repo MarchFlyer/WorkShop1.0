@@ -53,9 +53,9 @@ nav ul li a {
   top: 50%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-  left: 80%;
-  -ms- transform: translateX(-80%);
-  transorm: translateX(-80%);
+  left: 10%;
+  -ms- transform: translateX(-10%);
+  transorm: translateX(-10%);
 }
 
 nav ul {
