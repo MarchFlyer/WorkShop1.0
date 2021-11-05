@@ -52,7 +52,7 @@ nav ul li a {
 }
 
 nav ul li ul {
-      position: relative;
+      position: absolute;
       display: block;
       padding: 0;
       margin 0;
