@@ -68,8 +68,13 @@ nav ul li ul a {
 nav ul {
       margin: 0;
       list-style: none;
-      float: right;
-      padding-right: 500px;
+      position: absolute;
+      top: 50%;
+      -ms- transform: translateY(-50%);
+      transform: translateY(-50%);
+      left: 40%;
+      -ms- transform: translateX(-40%);
+      transorm: translateX(-40%);
 }
 
 nav ul li {
