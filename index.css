@@ -62,11 +62,7 @@ nav ul li ul {
 
 nav ul li ul a {
     display: block;
-    margin-top: ;
-}
-
-nav {
-    padding-left: 50px;
+    margin-top: 0;
 }
 
 nav ul {
@@ -75,7 +71,7 @@ nav ul {
 }
 
 nav ul li {
-      float: right;
+      float: left;
       position: relative;
 }
 
