@@ -82,7 +82,7 @@ nav ul {
 }
 
 nav ul li {
-      display: inline-block;
+      float: left;
       position: relative;
       
 }
