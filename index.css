@@ -68,6 +68,7 @@ nav ul li ul a {
 nav ul {
       margin: 0;
       list-style: none;
+      position: relative;
       left: 40%;
       -ms- transform: translateX(-40%);
       transorm: translateX(-40%);
