@@ -68,7 +68,6 @@ nav ul li ul a {
 nav ul {
       margin: 0;
       list-style: none;
-      position: absolute;
       top: 50%;
       -ms- transform: translateY(-50%);
       transform: translateY(-50%);
