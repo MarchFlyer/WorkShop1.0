@@ -100,7 +100,8 @@ nav a:hover {
         display: block;
         margin: 0;
         position: relative;
-        padding-top: 20px;
+        padding-top: 15px;
+        padding-right: 15px;
         
     }
     
