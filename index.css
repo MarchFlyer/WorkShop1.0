@@ -41,6 +41,7 @@ nav ul li a {
   text-transform: uppercase;
   color: #8C234D;
   font-size: 25px;
+  margin-left: 50px;
 }
 
 nav ul li ul {
@@ -71,7 +72,7 @@ nav ul {
 
 nav ul li {
       display: inline-block;
-      margin-left: 0px;
+ 
       position: relative;
       
 }
