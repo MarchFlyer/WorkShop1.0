@@ -42,6 +42,7 @@ nav ul li a {
   color: #8C234D;
   font-size: 25px;
   margin-left: 50px;
+  display: block;
 }
 
 nav ul li ul {
