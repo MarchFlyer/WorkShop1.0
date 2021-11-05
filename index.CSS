@@ -91,7 +91,7 @@ nav a:hover {
     
     .logo {
         padding-top: 30px;
-        padding-let: 0px;
+        display: block;
     }   
     
     nav ul li a {
