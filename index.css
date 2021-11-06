@@ -96,6 +96,7 @@ nav a:hover {
         margin-right: 10px;
         scale: .80;
         float: right;
+        cursor: pointer;
    
     }
 
