@@ -92,7 +92,7 @@ nav a:hover {
         -webkit-appearance: none;
         border-radius: 0; 
         padding: 0;
-        margin: 0;
+        margin-top: 10px;
         scale: .80;
         float: right;
    
@@ -115,14 +115,7 @@ nav a:hover {
           background-color: white;
 
     }
- 
-    
-    .logo1:hover {
-               background-color: #7a7979;
-               padding: 1px;
-    }
-    
-    
+        
     .logo {
         padding-top: 13px;
         display: block;
