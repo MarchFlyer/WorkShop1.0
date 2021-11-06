@@ -84,7 +84,8 @@ nav a:hover {
 @media screen and (max-width: 900px) {
     
     #menu-button:hover {
-        background-color: red;
+        background-color: #7a7979;
+               padding: 1px;
     }
     
     button { 
