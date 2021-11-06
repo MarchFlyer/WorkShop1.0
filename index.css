@@ -83,15 +83,8 @@ nav a:hover {
 
 @media screen and (max-width: 900px) {
     
-    input.button.sqs-system-button.sqs-editable-button {
-    border-radius: 0;
-}
-    
     .menu-button {    
-    padding: 0;
-    margin: 0; 
-    border-radius: 0;
-    display: inline-block;
+   
     }
 
     p {
