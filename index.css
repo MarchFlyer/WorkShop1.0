@@ -112,7 +112,8 @@ nav a:hover {
     }
     
     .logo1:hover {
-               background-color: red;
+               background-color: #f3f3f3;
+               padding: .5px;
     }
     
     
