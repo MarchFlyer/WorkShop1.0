@@ -101,7 +101,7 @@ nav a:hover {
 
     }
     
-    .logo1:hover {
+    .logo1 {
         float: right;
         display: block;
         margin: 0;
@@ -109,6 +109,10 @@ nav a:hover {
         padding-top: 15px;
         padding-right: 15px;
         
+    }
+    
+    .logo1:hover {
+               background-color: red;
     }
     
     
