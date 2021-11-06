@@ -83,8 +83,7 @@ nav a:hover {
 
 @media screen and (max-width: 900px) {
     
-    .menu-button { 
-        -webkit-border-radius:0px;
+    button { -webkit-border-radius:0px;
    
     }
 
