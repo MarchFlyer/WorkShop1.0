@@ -82,6 +82,15 @@ nav a:hover {
 }
 
 @media screen and (max-width: 900px) {
+    
+    button {
+    display: inline-block;
+    height: 134px;
+    padding: 0;
+    margin: 0;
+    vertical-align: top;
+    width: 104px;
+    }
 
     p {
         padding-top: 110px;
