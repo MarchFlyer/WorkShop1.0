@@ -83,6 +83,10 @@ nav a:hover {
 
 @media screen and (max-width: 900px) {
     
+    .menu-button:hover {
+        background-color: red;
+    }
+    
     button { 
         -webkit-appearance: none;
         border-radius: 0; 
