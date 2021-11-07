@@ -26,12 +26,10 @@ menu {
 }
 
 #menu-button {
-           
+           display: none;
 }
 
-.logo1 {
-    display: none;
-}
+
 
 header {
       background-color: white;
@@ -87,10 +85,13 @@ nav a:hover {
 
 @media screen and (max-width: 900px) {
     
+    #menu-button {
+                display: block;
+    }
+   
     #menu-button:hover {
                background-color: #7a7979;
                padding: 1px;
-               display: block;
     }
     
     button { 
