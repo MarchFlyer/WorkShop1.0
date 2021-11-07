@@ -30,7 +30,10 @@ menu {
 }
 
 #menu-list {
-    display: none;
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #8C234D;
 }
 
 
