@@ -29,6 +29,10 @@ menu {
            display: none;
 }
 
+#menu-list {
+    display: none;
+}
+
 
 
 header {
