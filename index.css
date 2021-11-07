@@ -37,6 +37,7 @@ menu {
     list-style: none;
     margin-top: 80px;
     position: absolute;
+    background-color: black;
 }
 
 .dropdown {
