@@ -34,7 +34,6 @@ menu {
 
 #menu-list li {
             padding: 25 0;
-            margin: 0px;
 }
 
 #menu-list {
@@ -46,6 +45,7 @@ menu {
     position: absolute;
     background-color: black;
     width: 100%;
+    margin: 0px;
 }
 
 .dropdown {
