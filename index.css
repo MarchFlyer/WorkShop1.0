@@ -36,6 +36,10 @@ menu {
     list-style: none;
 }
 
+.dropdown {
+        text-decoration: none;
+}
+
 
 
 header {
