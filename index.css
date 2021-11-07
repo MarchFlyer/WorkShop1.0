@@ -30,6 +30,10 @@ menu {
            display: none;
 }
 
+#menu-list li {
+            padding-top: 20px;
+}
+
 #menu-list {
     display: block;
     text-transform: uppercase;
