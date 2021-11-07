@@ -1,5 +1,7 @@
-* { box-sizing: border-box;
-    text-decoration: none;}
+* { 
+    box-sizing: border-box;
+    text-decoration: none;
+}
 
 
 body {
@@ -32,6 +34,7 @@ menu {
 
 #menu-list li {
             padding: 25 0;
+            margin: 0px;
 }
 
 #menu-list {
