@@ -25,6 +25,10 @@ menu {
     margin: 0px;
 }
 
+#menu-button {
+            display: none;
+}
+
 .logo1 {
     display: none;
 }
