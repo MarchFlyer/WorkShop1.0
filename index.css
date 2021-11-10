@@ -102,8 +102,12 @@ nav a:hover {
 
 @media screen and (max-width: 900px) {
     
-    #menu-button button:focus + ul {
+    .dropdown button:focus + ul {
                                           opacity: 1;   
+    }
+    
+    .dropdown ul {
+                  opacity: 0;
     }
     
     #menu-list {
