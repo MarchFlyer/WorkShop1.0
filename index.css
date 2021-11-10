@@ -107,6 +107,7 @@ nav a:hover {
     }
     
     #menu-list {
+    display: block;
     opacity: 0;
     text-transform: uppercase;
     color: #8C234D;
