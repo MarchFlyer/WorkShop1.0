@@ -33,7 +33,7 @@ menu {
 }
 
 #menu-list {
-    display: block;
+    display: none;
 }
 
 #menu-list li {
