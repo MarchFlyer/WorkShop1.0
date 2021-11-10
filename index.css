@@ -106,9 +106,8 @@ nav a:hover {
                                           opacity: 1;   
     }
     
-    #menu-list {
+    .dropdown {
     display: block;
-    opacity: 0;
     text-transform: uppercase;
     color: #8C234D;
     list-style: none;
