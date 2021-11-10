@@ -28,7 +28,7 @@ menu {
     margin: 0px;
 }
 
-#menu-button {
+.menu-button {
            display: none;
 }
 
@@ -126,7 +126,7 @@ nav a:hover {
                 display: block;
     }
    
-    #menu-button:hover {
+    .menu-button:hover {
                background-color: #7a7979;
                padding: 1px;
     }
