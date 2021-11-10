@@ -32,6 +32,10 @@ menu {
            display: none;
 }
 
+#menu-list {
+    display: block;
+}
+
 #menu-list li {
             padding: 25 0;
 }
