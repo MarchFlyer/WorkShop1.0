@@ -46,6 +46,7 @@ menu {
     background-color: black;
     width: 100%;
     padding-left: 10px;
+    opacity: 0;
 }
 
 .dropdown {
