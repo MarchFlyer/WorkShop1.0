@@ -63,6 +63,10 @@ nav a:hover {
 
 @media screen and (max-width: 900px) {
     
+    .button span {
+        line-height: 40px;
+    }
+    
     #button-nav label {
         position: relative;
         color: red;
