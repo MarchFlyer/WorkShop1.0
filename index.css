@@ -111,7 +111,6 @@ nav a:hover {
     }
     
     #menu-list {
-    opacity: 0;
     display: block;
     text-transform: uppercase;
     color: #8C234D;
