@@ -79,6 +79,7 @@ nav a:hover {
     
     #button-nav label {
         color: red;
+        position: absolute;
     }
     
     #button-nav {
