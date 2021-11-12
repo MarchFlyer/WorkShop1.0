@@ -74,8 +74,8 @@ nav a:hover {
         background-color: grey;
         float: right;
         display: block;
-        line-height: 80px;
-        padding: 10px 0;
+        line-height: 0px;
+        padding: 0px 0;
         
     }
     
