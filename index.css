@@ -106,7 +106,7 @@ nav a:hover {
                                           opacity: 1;   
     }
     
-    .menu-button ul {
+    #menu-list ul {
                   opacity: 0;
     }
     
