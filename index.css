@@ -82,7 +82,8 @@ nav a:hover {
     
     .menu-icon {
               display: inline-block;
-              cursor: pointer; 
+              cursor: pointer;
+              line-height: 40px;
     }
     
     .bar1, .bar2, .bar3 {
