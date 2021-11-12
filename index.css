@@ -102,7 +102,7 @@ nav a:hover {
 
 @media screen and (max-width: 900px) {
     
-    .menu-list {
+    .menu-button ul {
     display: block;
     text-transform: uppercase;
     color: #8C234D;
@@ -114,11 +114,11 @@ nav a:hover {
     padding-left: 10px;
 }
     
-    .menu-button button:focus + .menu-list {
+    .menu-button button:focus + ul {
                                   opacity: 1;
     }
     
-    .menu-list {
+    .menu-button ul {
                   opacity: 0;
     }
     
