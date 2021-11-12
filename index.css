@@ -66,6 +66,7 @@ header::after {
     .menu {
          text-decoration: none;
          list-style: none;
+         float: left;
     }
     
     #button-nav label {
