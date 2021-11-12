@@ -71,7 +71,6 @@ nav a:hover {
         position: absolute;
         color: red;
         display: block;
-        float: right;
     }
     
     #button-nav {
