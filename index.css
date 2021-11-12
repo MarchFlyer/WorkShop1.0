@@ -68,7 +68,7 @@ nav a:hover {
         cursor: pointer;
         position: relative;
         left: 20px;
-        z-index: 2;
+        z-index: 0;
     }
     
     #button-nav {
@@ -95,7 +95,7 @@ nav a:hover {
                 margin: 6px 0;
                 transition: 0.4s;
                 margin-left: 10px;
-                z-index: 0;
+                z-index: 2;
     }
     
     .change .bar1 {
