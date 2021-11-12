@@ -114,14 +114,6 @@ nav a:hover {
     padding-left: 10px;
 }
     
-    .menu-button button:focus + ul {
-                                  opacity: 1;
-    }
-    
-    .menu-button ul {
-                  opacity: 0;
-    }
-    
     .menu-button {
                 display: block;
     }
