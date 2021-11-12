@@ -102,7 +102,7 @@ header::after {
 .active {
   background-color: #04AA6D;
   color: white;
-  padding-bottom: 10px;
+  margin-bottom: 10px;
 }
    
     .menu-icon {
