@@ -78,6 +78,8 @@ nav a:hover {
         background-color: grey;
         float: right;
         display: block;
+        line-height: 40px;
+        padding: 20px;
         
     }
     
