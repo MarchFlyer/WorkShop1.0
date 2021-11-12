@@ -115,11 +115,11 @@ nav a:hover {
 }
     
     .menu-button button:focus + .menu-list {
-                                   display: block;   
+                                  
     }
     
     .menu-button ul {
-                  
+                  display: none;
     }
     
     .menu-button {
