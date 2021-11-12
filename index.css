@@ -32,7 +32,7 @@ menu {
            display: none;
 }
 
-.menu-button ul li {
+.menu-list {
     display: none;
 }
 
@@ -102,7 +102,7 @@ nav a:hover {
 
 @media screen and (max-width: 900px) {
     
-    .menu-button ul {
+    .menu-list {
     display: block;
     text-transform: uppercase;
     color: #8C234D;
