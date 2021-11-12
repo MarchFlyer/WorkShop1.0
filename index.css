@@ -84,7 +84,7 @@ nav a:hover {
     }
     
     #button-nav {
-        position: relative;
+        position: absolute;
         background-color: grey;
         float: right;
         
