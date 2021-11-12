@@ -68,7 +68,7 @@ nav a:hover {
     }
     
     #button-nav label {
-        position: absolute;
+        
         color: red;
         cursor: pointer;
         padding: 0;
