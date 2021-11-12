@@ -63,6 +63,10 @@ header::after {
 
 @media screen and (max-width: 900px) {
     
+    .menu {
+         text-decoration: none;
+    }
+    
     #button-nav label {
         color: red;
         cursor: pointer;
