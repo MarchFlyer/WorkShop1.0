@@ -78,7 +78,8 @@ nav a:hover {
 @media screen and (max-width: 900px) {
     
     .menu-text {
-        float: right;
+        position: absolute;
+        float: left;
         color: red;
         
     }
