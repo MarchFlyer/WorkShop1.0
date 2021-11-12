@@ -63,19 +63,19 @@ header::after {
 
 @media screen and (max-width: 900px) {
     
-   .topnav {
+   .mobilenav {
   overflow: hidden;
   background-color: #333;
   position: relative;
 }
 
 
-.topnav #myLinks {
+.mobilenav #myLinks {
   display: none;
 }
 
 
-.topnav a {
+.mobilenav a {
   color: white;
   padding: 14px 16px;
   text-decoration: none;
@@ -84,7 +84,7 @@ header::after {
 }
 
 
-.topnav a.icon {
+.mobilenav a.icon {
   background: black;
   display: block;
   position: absolute;
@@ -93,7 +93,7 @@ header::after {
 }
 
 
-.topnav a:hover {
+.mobilenav a:hover {
   background-color: #ddd;
   color: black;
 }
