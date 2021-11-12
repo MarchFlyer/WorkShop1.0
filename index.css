@@ -35,7 +35,7 @@ header::after {
             clear: both;
 }
 
-nav ul li a {
+.navbar-header nav ul li a {
   text-decoration: none;
   text-transform: uppercase;
   color: #8C234D;
