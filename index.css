@@ -82,6 +82,8 @@ nav a:hover {
     .menu-icon {
               display: inline-block;
               cursor: pointer;
+              margin: 0;
+              padding: 0;
 
             
     }
