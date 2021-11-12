@@ -64,13 +64,12 @@ nav a:hover {
 @media screen and (max-width: 900px) {
     
     #button-nav label {
-        padding-top: 40px;
         color: red;
         cursor: pointer;
         padding: 0px;
         margin: 0;
         float: left;
-        position: relative;
+        position: absolute;
     }
     
     #button-nav {
