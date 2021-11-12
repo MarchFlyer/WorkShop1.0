@@ -80,11 +80,11 @@ nav a:hover {
     .button {
         margin-top: 20px;
         color: red;
-        position: absolite;
+        position: absolute;
     }
     
     #button-nav {
-        position: absoulute;
+        position: absolute;
         float: right;
         padding: 0;
         margin: 0;
