@@ -77,6 +77,12 @@ nav a:hover {
 
 @media screen and (max-width: 900px) {
     
+    #button-nav {
+        position: absoulute;
+        float: right;
+        
+    }
+    
     .menu-icon {
               display: inline-block;
               cursor: pointer;
