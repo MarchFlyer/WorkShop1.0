@@ -141,23 +141,9 @@ header::after {
 
     }
         
-    .logo {
-        padding-top: 13px;
-        display: block;
-    }   
-    
     .navbar-header nav ul li a {
         display: none;
     }
     
-    .navbar-header nav ul li ul {
-    
-      position: absolute;
-      display: block;
-      padding: 0;
-      margin: 0;
-      background-color: white;
-    
-}
           
        }
