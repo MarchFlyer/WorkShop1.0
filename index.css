@@ -115,11 +115,11 @@ nav a:hover {
 }
     
     .menu-button button:focus + ul {
-                                   opacity: 1;   
+                                   display: block;   
     }
     
     .menu-button ul {
-                   opacity: 0;
+                   display: none;
     }
     
     .menu-button {
