@@ -85,7 +85,8 @@ nav a:hover {
               display: inline-block;
               cursor: pointer;
               margin: 0;
-              padding: 0;            
+              padding: 0;  
+              z-index: 2;
     }
     
     .bar1, .bar2, .bar3 {
