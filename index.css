@@ -97,12 +97,6 @@ header::after {
   background-color: #ddd;
   color: black;
 }
-
-
-.active {
-  background-color: #04AA6D;
-  color: white;
-}
     
     .menu-icon {
               display: inline-block;
