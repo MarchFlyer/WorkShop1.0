@@ -67,7 +67,7 @@ nav a:hover {
         color: red;
         cursor: pointer;
         position: relative;
-        bottom: 20px;
+        left: 20px;
     }
     
     #button-nav {
