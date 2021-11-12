@@ -70,6 +70,7 @@ nav a:hover {
         padding: 0px;
         margin: 0;
         float: left;
+        display:block;
     }
     
     #button-nav {
