@@ -90,6 +90,7 @@ nav a:hover {
     .menu-icon {
               display: inline-block;
               cursor: pointer;
+              padding-top: 20px;
     }
     
     .bar1, .bar2, .bar3 {
