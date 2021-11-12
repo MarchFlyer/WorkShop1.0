@@ -87,6 +87,7 @@ nav a:hover {
         position: absolute;
         background-color: grey;
         float: right;
+        display: block;
         
     }
     
