@@ -84,6 +84,8 @@ nav a:hover {
     #button-nav {
         position: absoulute;
         float: right;
+        padding: 0;
+        margin: 0;
         
     }
     
