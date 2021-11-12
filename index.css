@@ -115,7 +115,7 @@ nav a:hover {
 }
     
     .menu-button button:focus + .menu-list {
-                                  
+                                  display: block;
     }
     
     .menu-list {
